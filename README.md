@@ -69,8 +69,6 @@ The system provides separate dashboards for administrators, donors, and NGOs to 
 ### Food Details
 ![Food Details](screenshots/foodDetail.png)
 
-### Food Information
-![Food Information](screenshots/infoaboutthefood.png)
 
 ### Location Tracking
 ![Location Tracking](screenshots/LocationTracking.png)
