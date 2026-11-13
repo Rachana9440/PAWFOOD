@@ -1,0 +1,39 @@
+
+# Database credentials
+config/database.php
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Uploaded user images and private files
+uploads/*
+!uploads/.gitkeep
+
+# Admin setup script
+admin/create-admin.php
+
+# SQL database backups and exports
+*.sql
+*.sql.zip
+*.sql.gz
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Editor files
+.vscode/
+.idea/
+
+# Operating system files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Dependencies and generated files
+vendor/
+node_modules/
+__pycache__/
+*.pyc
